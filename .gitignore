@@ -1,0 +1,42 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Python / Environment
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+*.egg-info/
+.pytest_cache/
+
+# IDE and Editor Files
+.vscode/        # Visual Studio Code
+.idea/          # IntelliJ IDEA / PyCharm
+*.iml           # IntelliJ IDEA module files
+*.swp           # Vim swap files
+*.swo           # Vim swap files
+
+# Compiled output
+*.log
+*.tmp
+*.bak
+*.orig
+*.rej
+*.o
+*.a
+*.so
+*.dll
+*.exe
+
+# Jupyter / IPython Notebook
+.ipynb_checkpoints
+
+# Build artifacts (if you introduce any scripts)
+dist/
+build/
+*.egg

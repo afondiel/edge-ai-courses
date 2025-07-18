@@ -4,17 +4,13 @@
 
 This repository provides a curated collection of Edge AI courses and resources for every engineer and practitioner of all levels.
 
-## New to Edge AI? 
+### New to Edge AI? 
 
 - Start with [Edge AI Engineering](https://github.com/afondiel/edge-ai-engineering): a practical guide covering core concepts of the entire [Edge AI MLOps](https://docs.edgeimpulse.com/docs/concepts/edge-ai-fundamentals/what-is-edge-mlops) stack with industry blueprints.
 - Next, read ["The Next AI Frontier is at the Edge"](https://afondiel.github.io/posts/the-next-ai-frontier-is-at-the-edge/) to discover Edge AI’s benefits and its rapidly evolving landscape.
-- Edge AI is focused on solving real-world problems. Get started with these practical, real-world **edge-series** : [Edge Language (Coming Soon!)](https://github.com/afondiel/edge-audio), [Edge Audio](https://github.com/afondiel/edge-audio), [Edge Vision](https://github.com/afondiel/edge-vision)
+- Edge AI is focused on solving real-world problems. Get started with these practical, real-world **edge-series**: [Edge Language (Coming Soon!)](https://github.com/afondiel/edge-audio), [Edge Audio](https://github.com/afondiel/edge-audio), [Edge Vision](https://github.com/afondiel/edge-vision)
 
-
-
-
-## Courses & Resources
-
+## Courses
 
 | Course | Description | Level | Price | Organization |
 | :------------------------------------------------- | :------------------------------------------------------------------------------------------------------- | :--------- | :------------------------------ | :------------------------------------------------------------------------------------------------------- |

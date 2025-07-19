@@ -2,7 +2,7 @@
 
 # Edge AI Courses 
 
-This repository provides a curated collection of Edge AI courses and resources for every engineer and practitioner of all levels.
+This repository offers a curated collection of Edge AI courses and resources for engineers and practitioners of all levels.
 
 ### New to Edge AI? 
 
